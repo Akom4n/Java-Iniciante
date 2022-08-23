@@ -6,7 +6,7 @@ public class expressoes_comparativos {
 		
 		/* 
 		 
-		 OPERADORES COMPARATIVOS:
+		 OPERADORES COMPARATIVOS: JAVA, C, C++, C#
 		 
 		 OPERADOR:			SIGNIFICADO:
 		 
@@ -18,7 +18,18 @@ public class expressoes_comparativos {
 		 !=					diferente
 		 
 		 
-		 */
+		
+		
+		Exemplos
+		
+		(Suponha x igual a 5)
+		
+		X > 0 	RESULTADO: V
+		X == 3	RESULTADO: F
+		10 <= 30 RESULTADO: V
+		X != 2   RESULTADO: V
+		
+		*/
 	}
 
 }
